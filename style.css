@@ -1,0 +1,96 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  width: 800px;
+  margin: auto;
+  font-family: Quicksand;
+}
+
+#Quadrato{
+  background-color: black;
+  border-radius: 7%;
+  opacity: 70%;
+  width: 1000px;
+  height: 800px;
+  margin: auto;
+  margin-top: 20px;
+  position:absolute;
+}
+
+#logo{
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 100px;
+  width: 200px;
+  position:absolute;
+}
+
+header > h2{
+  position: absolute;
+  margin-left: 320px;
+  color: #00DD00;
+  margin-top: 200px;
+}
+
+.button{
+  position: absolute;
+  text-align: center;
+  margin-left: 100px;
+  margin-top: 250px;
+  background-color: #00DD00;
+  width: 800px;
+  height: 35px;
+}
+
+button{
+  margin-top: 7px;
+}
+
+.Gino22{
+  color: white;
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 300px;
+}
+
+.Mike24{
+  color: white;
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 430px;
+}
+
+.Fede154{
+  color: white;
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 560px;
+}
+
+.Nome{
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.carica1{
+  border-radius: 5px;
+  background-color: orange;
+  width: 320px;
+  height: 25px;
+}
+
+.carica2{
+  border-radius: 5px;
+  background-color: lightblue;
+  width: 520px;
+  height: 25px;
+}
+
+.carica3{
+  border-radius: 5px;
+  background-color: yellow;
+  width: 215px;
+  height: 25px;
+}
